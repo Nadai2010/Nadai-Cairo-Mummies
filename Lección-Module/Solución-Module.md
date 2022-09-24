@@ -54,6 +54,7 @@ func is_ideal_base_area(num_pyramid_sides: felt, base_area: felt) -> (result: fe
  ```
 
  ## FELICIDADES, Un pasito más en Cairo.
+ ![image](Lección-Module/module0-complete.png "Module complete")
 
 Referencias:
 
