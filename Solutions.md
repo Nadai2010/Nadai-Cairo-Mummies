@@ -1,41 +1,4 @@
-# Soluciones para los ejercicios de cairo mummies
 
-Estas son unas posibles soluciones para las lecciones de [Cairo-Mummies](https://triality.org/education/course/cairomummies)
-
-## Modulo 0
-
-### Lección 0
-
-La función main es el punto inicial para los programas de Cairo.  
-
-**Sobre las funciones:**
-
-* La palabra reservada `func` es usada para definir funciónes dentro.
-* La logica de la funcion se escribe dentro de un bloque definido por `{}`.
-
-  ```
-    func main() {
-      return();
-    } 
-  ```
-
-* Cada función debe tener la instruccion de `return`
-
-**Solución:**  
-
-![image](assets/lesson0.png "Lesson 0")
-***
-
-### Lección 1
-
-`felt` es un tipo de dato primitivo en Cairo el cual es un entero de 252 bits.  
-Existen diferentes formas de declarar una variable en cairo, pero en esta leccion se usa `let`.  
-Los `assert` se usan para comparación de valores en Cairo.  
-
-**Solución:**  
-
-![image](assets/lesson1.png "Lesson 1")
-***
 
 ### Lección 2
 
