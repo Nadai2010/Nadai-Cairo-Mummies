@@ -1,7 +1,9 @@
 ## Lección 0
+
 Escribir tu función principal. La función main es el punto inicial para los programas de Cairo. 
 
 ### Descripción general
+
 Bienvenido a escribir su primer programa de El Cairo. No nos sumergiremos en la redacción de contratos de Starknet hasta módulos posteriores, sino que nos centraremos en los fundamentos de El Cairo por ahora.
 
 La función principal es el punto de partida de todos los programas de El Cairo. Por lo tanto, nuestro primer ejercicio comienza con la función main(). Hagamos eso ahora.

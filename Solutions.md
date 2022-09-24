@@ -1,14 +1,5 @@
 
 
-### Lección 2
-
-Una función puede recibir parametros y retornar valores.  
-Para esta lección crearemos una función con nombre `get_ideal_base_area` que recibira un parametro de tipo `felt` y retornara el resultado de multiplicar el parametro de entrada por 100.  
-
-**Solución:**  
-
-![image](assets/lesson2.png "Lesson 2")
-***
 
 ### Lección 3
 

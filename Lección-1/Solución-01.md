@@ -1,7 +1,9 @@
 ## Lección 1
+
 Creacción de Assertions y declarar una Variable.
 
 ### Descripción general (variables & felt)
+
 A continuación, necesitaremos aprender cómo declarar una variable. El tipo de datos primario de Cairo es un elemento de campo `felt`, es un tipo de dato primitivo en Cairo el cual es un entero de 252 bits. 
   
 Existen diferentes formas de declarar una variable en cairo, pero en esta leccion se usa `let`.  
@@ -52,6 +54,6 @@ func main() {
 
 ### Referencias
 
-Para documentos oficiales sobre fieltros: $  https://www.cairo-lang.org/docs/how_cairo_works/cairo_intro.html#field-elements $ ﻿
+Para documentos oficiales sobre felt: $  https://www.cairo-lang.org/docs/how_cairo_works/cairo_intro.html#field-elements $ ﻿
 
-Para documentos oficiales sobre afirmaciones: $  https://www.cairo-lang.org/docs/how_cairo_works/consts.html#assert-statement $  & $  https://www.cairo-lang.org/docs/hello_cairo/intro .html 
+Para documentos oficiales sobre afirmaciones: $  https://www.cairo-lang.org/docs/how_cairo_works/consts.html#assert-statement $  & $  https://www.cairo-lang.org/docs/hello_cairo/intro.html $ 
